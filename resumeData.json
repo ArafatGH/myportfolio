@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Arafat Hossen",
+    "occupation": "(ReactJS Developer)",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
+    "image": "profilepic.jpg",
+    "bio": "My name is Arafat, I'm a Full Stack ReactJS Developer. Currently, I'm working as a freelance web developer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "arafat.tkw@gmail.com",
+    "phone": "01797293488",
+    "address": {
+      "city": "Satkhira",
+      "state": "Dhaka Bangladesh",
+      "zip": "9400"
+    },
+
+    "social": [{
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "#",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "#",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of the skills.",
+    "education": [{
+      "school": "NJPI Institute",
+      "degree": "I'm a a self-taught developer && Computer engineering running",
+      "graduated": "January 2020"
+    }],
+    "work": [{
+        "company": "Freelance Web Developer",
+        "title": " React Specialist",
+        "years": "April 2020 - Present",
+        "description": "I am extremely passionate about what I'm doing, and I love so much making react app."
+      },
+      {
+        "company": "Here is some making big Tech Company Clone",
+        "title": "Software Engineer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Facebook, Amazon, Twitter, Instagram"
+      }
+    ],
+    "skills": [{
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "Adobe XD && UI UX",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "55%"
+      },
+
+      {
+        "name": "Firebase & Node & MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook.png",
+        "url": "#"
+      },
+      {
+        "title": "Amazon Clone with ReactJS",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "Amazon.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Twitter Clone with ReactJS",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "Twitter.png",
+        "url": "#"
+      },
+      {
+        "title": "Resume Website",
+        "category": "Resume Website built with ReactJS",
+        "image": "Portfolio.png",
+        "url": "#"
+      },
+      {
+        "title": "Instagram",
+        "category": "instagram Clone with ReactJS",
+        "image": "Instagram.jpg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress.",
+        "user": "Mark Zuckerberg"
+      },
+      {
+        "text": "That Arafat Hossen must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
